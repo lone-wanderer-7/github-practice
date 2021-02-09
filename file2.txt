@@ -1,0 +1,2 @@
+This is a new feature we are adding in the feature 1 branch
+This is looking great at this point both master and feature are at the same point
